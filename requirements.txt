@@ -1,0 +1,5 @@
+This file contains all the pip libraries needed of this project are as under.
+
+pillow
+ttkbootstrap
+
